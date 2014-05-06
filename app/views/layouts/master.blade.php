@@ -41,6 +41,7 @@
   </head>
 
  
+ 
   <body>
     
 
@@ -161,7 +162,7 @@
             <div class="block-body">
               <h2>Shirts</h2>
               <div class="line-subtitle"></div>
-              <p>I have a wide variety of shirt for you to choose from or you are more than welcome to provide your own.</p>
+              <p>I have a wide variety of shirt styles for you to choose from or you are more than welcome to provide your own.</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-4">
