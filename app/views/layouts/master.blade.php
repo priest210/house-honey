@@ -64,7 +64,7 @@
             <li class="active"><a href="/bs-banzhow/index.html">Home</a></li>
             <li><a href="/bs-banzhow/services.html">Services</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Portfolio <i class="fa fa-angle-down"></i></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Shop  <i class="fa fa-angle-down"></i></a>
               <ul class="dropdown-menu">
                 <li><a href="/bs-banzhow/portfolio-1-col.html">1 Column Portfolio</a></li>
                 <li><a href="/bs-banzhow/portfolio-2-col.html">2 Column Portfolio</a></li>
@@ -72,22 +72,9 @@
                 <li><a href="/bs-banzhow/portfolio-item.html">Single Portfolio Item</a></li>
               </ul>
             </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Blog <i class="fa fa-angle-down"></i></a>
-              <ul class="dropdown-menu">
-                <li><a href="/bs-banzhow/blog-home-1.html">Blog Home</a></li>
-                <li><a href="/bs-banzhow/blog-post.html">Blog Post</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Other Pages <i class="fa fa-angle-down"></i></a>
-              <ul class="dropdown-menu">
-                <li><a href="/bs-banzhow/full-width.html">Full Width Page</a></li>
-                <li><a href="/bs-banzhow/sidebar.html">Sidebar Page</a></li>
-                <li><a href="/bs-banzhow/faq.html">FAQ</a></li>
-                <li><a href="/bs-banzhow/404.html">404</a></li>
-              </ul>
-            </li>
+            <li><a href="http://www.househoney.com" target="_blank">My Blog</a></li>
+
+          
             <li><a href="/bs-banzhow/contact.html">Contact</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
@@ -156,7 +143,7 @@
           </div>
           <div class="col-md-4 col-sm-4">
             <div class="block-icon">
-              <i class="glyphicon glyphicon t-shirt"></i>
+              <i class="fa fa-group"></i>
             </div>
 
             <div class="block-body">
@@ -191,7 +178,7 @@
             <h2>I will be happy to help you figure out a solution for your needs </h2>
           </div>
           <div class="col-md-3 col-sm-4">
-            <a href="#" class="btn btn-danger btn-lg">Contact me</a>
+            <a href="mailto:heather@househoney.com" class="btn btn-danger btn-lg">Contact me</a>
           </div>
         </div><!-- /.row -->
 
@@ -212,10 +199,21 @@
               <div class="overlay-portfolio">
                 <h3>Banzhow Template</h3>
                 <small class="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
+                  Plastic tumblers with screw on lids with straws. Choose and existing design or I can customize them for you.  
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/portfolio_1.png" alt="portfolio 1">
+              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/even-miracles.jpg" alt="portfolio 1">
+            </a>
+          </div>
+          <div class="col-lg-4 col-md-4 col-sm-6">
+            <a href="/bs-banzhow/portfolio-item.html" class="link-portfolio">
+              <div class="overlay-portfolio">
+                <h3>The House Honey</h3>
+                <small class="text-muted">
+                  I can embroider your personal items with limitless designs.  I also offer a wide variety of apparel and baby items for you to choose from. 
+                </small>
+              </div><!-- /.overlay-portfolio -->
+              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/christmas-mickey.jpg" alt="portfolio 2">
             </a>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6">
@@ -226,7 +224,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/portfolio_2.png" alt="portfolio 2">
+              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/fabAtForty.jpg" alt="portfolio 3">
             </a>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6">
@@ -237,7 +235,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/portfolio_3.png" alt="portfolio 3">
+              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/fua-wine.jpg" alt="portfolio 4">
             </a>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6">
@@ -248,7 +246,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/portfolio_4.png" alt="portfolio 4">
+              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/yogaPantsWine.jpg" alt="portfolio 5">
             </a>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6">
@@ -259,18 +257,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/portfolio_5.png" alt="portfolio 5">
-            </a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6">
-            <a href="/bs-banzhow/portfolio-item.html" class="link-portfolio">
-              <div class="overlay-portfolio">
-                <h3>The House Honey</h3>
-                <small class="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
-                </small>
-              </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/portfolio_6.png" alt="portfolio 6">
+              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/cups-straws.jpg" alt="portfolio 6">
             </a>
           </div>
         </div><!-- /.row -->
