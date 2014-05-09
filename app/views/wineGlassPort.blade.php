@@ -123,8 +123,6 @@
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.</p>
           <a class="btn btn-primary" href="portfolio-item.html">View Project <i class="fa fa-angle-right"></i></a>    
         </div>
-
       </div>
-
     </div><!-- /.container -->
 @stop

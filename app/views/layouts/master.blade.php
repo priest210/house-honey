@@ -67,9 +67,12 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Shop  <i class="fa fa-angle-down"></i></a>
               <ul class="dropdown-menu">
                 <li><a href="{{{ action('HomeController@showWineGlasses') }}}">Wine Glasses</a></li>
-                <li><a href="/bs-banzhow/portfolio-2-col.html">2 Column Portfolio</a></li>
-                <li><a href="/bs-banzhow/portfolio-3-col.html">3 Column Portfolio</a></li>
-                <li><a href="/bs-banzhow/portfolio-item.html">Single Portfolio Item</a></li>
+                <li><a href="">Tumblers</a></li>
+                <li><a href="">Vinyl Printed Shirts</a></li>
+                <li><a href="">Autism Awareness</a></li>
+                <li><a href="">Teacher Appreciation</a></li>
+                <li><a href="">School Spirit</a></li>
+                <li><a href="">Embroidery</a></li>
               </ul>
             </li>
             <li><a href="http://www.househoney.com" target="_blank">My Blog</a></li>
