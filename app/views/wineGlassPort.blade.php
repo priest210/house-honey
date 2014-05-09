@@ -2,6 +2,7 @@
 
 
 @section('body')
+<hr>
     <div class="container container-int">
 
       <ol class="breadcrumb">

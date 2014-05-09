@@ -16,5 +16,7 @@ Route::get('/', function()
 	return View::make('home');
 });
 
+Route::get('/', 'HomeController@showHome');
+
 
 Route::get('wine', 'HomeController@showWineGlasses');

@@ -55,13 +55,13 @@
             <span class="icon-bar"></span>
           </button>
 
-          <a class="navbar-brand" href="/bs-banzhow/index.html">The House Honey</a>
+          <a class="navbar-brand" href="{{{ action('HomeController@showHome') }}}">The House Honey</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-ex1-collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="/bs-banzhow/index.html">Home</a></li>
+            <li class="active"><a href="{{{ action('HomeController@showHome') }}}">Home</a></li>
             <li><a href="/bs-banzhow/services.html">Services</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Shop  <i class="fa fa-angle-down"></i></a>
