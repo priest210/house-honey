@@ -66,12 +66,12 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Shop  <i class="fa fa-angle-down"></i></a>
               <ul class="dropdown-menu">
-                <li><a href="{{{ action('HomeController@showWineGlasses') }}}">Wine Glasses</a></li>
-                <li><a href="">Tumblers</a></li>
-                <li><a href="">Vinyl Printed Shirts</a></li>
-                <li><a href="">Autism Awareness</a></li>
-                <li><a href="">Teacher Appreciation</a></li>
-                <li><a href="">School Spirit</a></li>
+                <li><a href="{{{ action('ProductController@showWineGlasses') }}}">Wine Glasses</a></li>
+                <li><a href="{{{ action('ProductController@showTumblers') }}}">Tumblers</a></li>
+                <li><a href="{{{ action('ProductController@showVinylShirts') }}}">Vinyl Printed Shirts</a></li>
+                <li><a href="{{{ action('ProductController@showAutismAwareness') }}}">Autism Awareness</a></li>
+                <li><a href="{{{ action('ProductController@showTeacherAppreciation') }}}">Teacher Appreciation</a></li>
+                <li><a href="{{{ action('ProductController@showSchoolSpirit') }}}">School Spirit</a></li>
                 <li><a href="">Embroidery</a></li>
               </ul>
             </li>

@@ -2,6 +2,45 @@
 
 class ProductController extends \BaseController {
 
+	
+	public function showWineGlasses()
+	{
+		return View::make('wineGlassPort');
+	}
+
+	public function showTumblers()
+	{
+		return View::make('tumblerPort');
+	}
+
+	public function showVinylShirts()
+	{
+		return View::make('vinylShirtPort');
+	}
+
+	public function showAutismAwareness()
+	{
+		return View::make('autismAwarenessPort');
+	}
+
+	public function showTeacherAppreciation()
+	{
+		return View::make('teacherAppreciationPort');
+	}
+
+	public function showSchoolSpirit()
+	{
+		return View::make('schoolSpiritPort');
+	}
+
+
+
+
+
+
+
+
+
 	/**
 	 * Display a listing of the resource.
 	 *

@@ -20,11 +20,5 @@ class HomeController extends BaseController {
 		return View::make('home');
 	}
 
-	public function showWineGlasses()
-	{
-		return View::make('wineGlassPort');
-	}
-
-
 
 }

@@ -117,7 +117,7 @@
           <div class="col-lg-4 col-md-4 col-sm-6">
             <a href="/bs-banzhow/portfolio-item.html" class="link-portfolio">
               <div class="overlay-portfolio">
-                <h3>Banzhow Template</h3>
+                <h3>The House Honey</h3>
                 <small class="text-muted">
                   Plastic tumblers with screw on lids with straws. Choose and existing design or I can customize them for you.  
                 </small>

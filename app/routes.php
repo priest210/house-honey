@@ -19,4 +19,23 @@ Route::get('/', function()
 Route::get('/', 'HomeController@showHome');
 
 
-Route::get('wine', 'HomeController@showWineGlasses');
+Route::get('wine', 'ProductController@showWineGlasses');
+
+
+Route::get('tumblers', 'ProductController@showTumblers');
+
+
+Route::get('vinylShirts', 'ProductController@showVinylShirts');
+
+
+Route::get('autismAwareness', 'ProductController@showAutismAwareness');
+
+
+Route::get('teacher', 'ProductController@showTeacherAppreciation');
+
+
+Route::get('spirit', 'ProductController@showSchoolSpirit');
+
+
+
+
