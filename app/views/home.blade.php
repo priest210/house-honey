@@ -122,7 +122,7 @@
                   Plastic tumblers with screw on lids with straws. Choose and existing design or I can customize them for you.  
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/even-miracles.jpg" alt="portfolio 1">
+              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/realPink.jpg" alt="portfolio 1">
             </a>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6">
@@ -166,7 +166,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/yogaPantsWine.jpg" alt="portfolio 5">
+              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/yogaPantsWine2.jpg" alt="portfolio 5">
             </a>
            </div>
           <div class="col-lg-4 col-md-4 col-sm-6">
@@ -177,7 +177,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/cups-straws.jpg" alt="portfolio 6">
+              <img class="img-responsive img-home-portfolio" src="/bs-banzhow/img/decalPinkMono3.jpg" alt="portfolio 6">
             </a>
           </div>
 
